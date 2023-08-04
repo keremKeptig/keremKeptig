@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cdq.com/sites/default/files/2021-11/Cloud-Security-Lock.gif)]
+[![MasterHead](https://media.istockphoto.com/id/1484912807/photo/cloud-computing-concept-digital-cloud-solutions-on-pcb-futuristic-background.jpg?s=612x612&w=0&k=20&c=gN2siKMuE9cBHJxnCSeI2GOyUsqlmPPFaRcidkEF35A=)]
 <h1 align="center">Hi 👋, I'm Kerem Keptiğ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfn-GEoOEGciWZTVPkiDlOqbRM0w14NvhihX-0erxNL1Bnaj5dXU8o1p4eyhvKGbwN40&usqp=CAU">
