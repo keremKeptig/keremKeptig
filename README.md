@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cloud Security**
 
-- 💬 Ask me about **Azure cloud**
+- 💬 Ask me about **Microsoft Azure**
 
 - 📫 How to reach me **kkeptig@gmail.com**
 
