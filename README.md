@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://www.sogeti.se/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keremkeptig&label=Profile%20views&color=0e75b6&style=flat" alt="keremkeptig" /> </p>
 
-- 🔭 I’m currently working on **SIEM**
+- 🔭 I’m currently working on **EASIEST**
 
-- 🌱 I’m currently learning **Cloud Security**
+- 🌱 I’m currently learning **Data Mining**
 
-- 💬 Ask me about **Microsoft Azure**
+- 💬 Ask me about **Microsoft Azure and AWS**
 
 - 📫 How to reach me **kkeptig@gmail.com**
 
