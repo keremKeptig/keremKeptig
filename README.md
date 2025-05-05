@@ -1,7 +1,7 @@
 [![MasterHead](https://www.synopsys.com/blogs/software-security/wp-content/uploads/2023/04/NewsCred_19x5_TSK8973.png)]
 <h1 align="center">Hi 👋, I'm Kerem Keptiğ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://www.sogeti.se/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/keremKeptig/keremKeptig/blob/main/banner.png">
 <p align="left"> <img src="https://github.com/keremKeptig/keremKeptig/blob/main/banner.png" alt="keremkeptig" /> </p>
 
 - 🔭 I’m currently working on **EASIEST**
