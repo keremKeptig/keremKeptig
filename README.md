@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/keremKeptig/keremKeptig/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Kerem Keptiğ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-<p align="right"> <img src="https://github.com/keremKeptig/keremKeptig/blob/main/computer_guy.png" alt="keremkeptig" style="width: 500px; height: 500px;" /> </p>
+<p align="left"> <img src="https://github.com/keremKeptig/keremKeptig/blob/main/computer_guy.png" alt="keremkeptig" style="width: 600px; height: 600px;" /> </p>
 
 - 🔭 I’m currently working on **EASIEST**
 
