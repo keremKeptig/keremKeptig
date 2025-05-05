@@ -1,15 +1,13 @@
 ![MasterHead](https://github.com/keremKeptig/keremKeptig/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Kerem Keptiğ</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey, currently in Germany.</h3>
 <p align="middle"> <img src="https://github.com/keremKeptig/keremKeptig/blob/main/computer_guy.png" alt="keremkeptig" style="width: 300px; height: 300px;" /> </p>
 
-- 🔭 I’m currently working on **EASIEST**
+- 🔭 I’m currently working on ** OCR with Large (Vision-)Language Models for Historical and Dialectal Texts of German**
 
-- 🌱 I’m currently learning **Data Mining**
+- 🌱 I’m currently learning **Machine learning for complex networks**
 
-- 💬 Ask me about **Microsoft Azure and AWS**
-
-- 📫 How to reach me **kkeptig@gmail.com**
+- 📫 How to reach me **kkeptig@gmail.com** and https://keremkeptig.info/contact
 
 - ⚡ Fun fact **I like to play chess and I follow**
 
